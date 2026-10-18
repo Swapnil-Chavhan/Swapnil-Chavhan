@@ -38,6 +38,56 @@ I'm always excited to learn, collaborate on interesting projects, and connect wi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Swapnil-Chavhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🚀 My Projects Portfolio
+
+### 📊 Data Analytics & Business Intelligence
+
+| Project | Description | Technologies |
+|---|---|---|
+| [📱 Mobile Sales Interactive Dashboard](https://github.com/Swapnil-Chavhan/Mobile-Sales-Interactive-Dashboard-Power-BI) | Interactive dashboard for analyzing mobile sales, brand performance, and customer trends. | Power BI, DAX, Data Analytics |
+
+### 🤖 Artificial Intelligence & Computer Vision
+
+| Project | Description | Technologies |
+|---|---|---|
+| [🔍 AI-Powered Real-Time Multi-Object Detection & Tracking](https://github.com/Swapnil-Chavhan?tab=repositories) | Real-time object detection and tracking using AI and computer vision. | Python, OpenCV, YOLO, TensorFlow, NumPy, Keras |
+| [🖐️ Robotic Bionic Hand Using Computer Vision](https://github.com/Swapnil-Chavhan?tab=repositories) | Computer-vision-based hand gesture recognition for robotic hand control. | Python, OpenCV |
+| [🛡️ Abuse-Related Post Reporter](https://github.com/Swapnil-Chavhan?tab=repositories) | Web application designed to help report and manage abuse-related online posts. | Python, Django, Selenium, HTML, CSS |
+
+---
+
+### 💻 Explore More
+
+🔗 **[View All My GitHub Repositories](https://github.com/Swapnil-Chavhan?tab=repositories)**
+
+💡 I'm passionate about building practical solutions across data analytics, software development, AI, and robotics.
+
+
+## 🚀 My Projects Portfolio
+
+### 📊 Data Analytics & Business Intelligence
+
+| Project | Description | Technologies |
+|---|---|---|
+| [📱 Mobile Sales Interactive Dashboard](https://github.com/Swapnil-Chavhan/Mobile-Sales-Interactive-Dashboard-Power-BI) | Interactive dashboard for analyzing mobile sales, brand performance, and customer trends. | Power BI, DAX, Data Analytics |
+
+### 🤖 Artificial Intelligence & Computer Vision
+
+| Project | Description | Technologies |
+|---|---|---|
+| [🔍 AI-Powered Real-Time Multi-Object Detection & Tracking](https://github.com/Swapnil-Chavhan?tab=repositories) | Real-time object detection and tracking using AI and computer vision. | Python, OpenCV, YOLO, TensorFlow, NumPy, Keras |
+| [🖐️ Robotic Bionic Hand Using Computer Vision](https://github.com/Swapnil-Chavhan?tab=repositories) | Computer-vision-based hand gesture recognition for robotic hand control. | Python, OpenCV |
+| [🛡️ Abuse-Related Post Reporter](https://github.com/Swapnil-Chavhan?tab=repositories) | Web application designed to help report and manage abuse-related online posts. | Python, Django, Selenium, HTML, CSS |
+
+---
+
+### 💻 Explore More
+
+🔗 **[View All My GitHub Repositories](https://github.com/Swapnil-Chavhan?tab=repositories)**
+
+💡 I'm passionate about building practical solutions across data analytics, software development, AI, and robotics.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Swapnil-Chavhan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Swapnil-Chavhan&theme=dark&hide_border=true)<br/>
