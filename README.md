@@ -50,9 +50,9 @@ I'm always excited to learn, collaborate on interesting projects, and connect wi
 
 | Project | Description | Technologies |
 |---|---|---|
-| [🔍 AI-Powered Real-Time Multi-Object Detection & Tracking](https://github.com/Swapnil-Chavhan?tab=repositories) | Real-time object detection and tracking using AI and computer vision. | Python, OpenCV, YOLO, TensorFlow, NumPy, Keras |
-| [🖐️ Robotic Bionic Hand Using Computer Vision](https://github.com/Swapnil-Chavhan?tab=repositories) | Computer-vision-based hand gesture recognition for robotic hand control. | Python, OpenCV |
-| [🛡️ Abuse-Related Post Reporter](https://github.com/Swapnil-Chavhan?tab=repositories) | Web application designed to help report and manage abuse-related online posts. | Python, Django, Selenium, HTML, CSS |
+| [🔍 AI-Powered Real-Time Multi-Object Detection & Tracking](https://github.com/Swapnil-Chavhan/-AI-Powered-Real-Time-Multi-Object-Detection-Tracking-System-) | Real-time object detection and tracking using AI and computer vision. | Python, OpenCV, YOLO, TensorFlow, NumPy, Keras |
+| [🖐️ Robotic Bionic Hand Using Computer Vision](https://github.com/Swapnil-Chavhan/Design-and-Development-of-Robotic-Bionic-Hand-using-Computer-Vision) | Computer-vision-based hand gesture recognition for robotic hand control. | Python, OpenCV |
+| [🛡️ Abuse-Related Post Reporter](https://github.com/Swapnil-Chavhan/ABUSE-RELATED-POST-REPORTER) | Web application designed to help report and manage abuse-related online posts. | Python, Django, Selenium, HTML, CSS |
 
 ---
 
